@@ -157,10 +157,6 @@ projects, and connecting with developers who enjoy building useful software.
   <a href="https://github.com/kominkhantkyaw">GitHub</a> •
   <a href="https://www.linkedin.com/in/kominkhantkyaw/">LinkedIn</a> •
  <a href="https://mail.google.com/mail/?view=cm&to=kominkhantkyaw%40gmail.com" target="_blank">
-  <img
-    src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
-    alt="Email"
-  />
 </a>
 </p>
 
