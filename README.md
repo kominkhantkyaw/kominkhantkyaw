@@ -15,9 +15,12 @@ Building scalable applications, intuitive user experiences, and reliable softwar
   <a href="https://github.com/kominkhantkyaw/">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="mailto:kominkhantkyaw@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
+<a href="https://mail.google.com/mail/?view=cm&to=kominkhantkyaw%40gmail.com" target="_blank">
+  <img
+    src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
+    alt="Email"
+  />
+</a>
   <a href="https://www.linkedin.com/in/kominkhantkyaw/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -153,7 +156,12 @@ projects, and connecting with developers who enjoy building useful software.
 <p align="center">
   <a href="https://github.com/kominkhantkyaw">GitHub</a> •
   <a href="https://www.linkedin.com/in/kominkhantkyaw/">LinkedIn</a> •
-  <a href="mailto:kominkhantkyaw@gmail.com">Email</a>
+ <a href="https://mail.google.com/mail/?view=cm&to=kominkhantkyaw%40gmail.com" target="_blank">
+  <img
+    src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
+    alt="Email"
+  />
+</a>
 </p>
 
 <div align="center">
