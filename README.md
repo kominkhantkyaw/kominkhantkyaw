@@ -156,7 +156,7 @@ projects, and connecting with developers who enjoy building useful software.
 <p align="center">
   <a href="https://github.com/kominkhantkyaw">GitHub</a> •
   <a href="https://www.linkedin.com/in/kominkhantkyaw/">LinkedIn</a> •
- <a href="https://mail.google.com/mail/?view=cm&to=kominkhantkyaw%40gmail.com" target="_blank">
+ <a href="https://mail.google.com/mail/?view=cm&to=kominkhantkyaw%40gmail.com">Email
 </a>
 </p>
 
