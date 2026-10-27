@@ -18,7 +18,7 @@ Building scalable applications, intuitive user experiences, and reliable softwar
   <a href="mailto:kominkhantkyaw@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://www.linkedin.com/in/linkedin.com/in/kominkhantkyaw/">
+  <a href="https://www.linkedin.com/in/kominkhantkyaw/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
@@ -102,7 +102,7 @@ supporting users with safety-related information and response workflows.
 
 **Repository:** [View SafeSphere](https://github.com/kominkhantkyaw/safesphere)
 
-### 📱 STW NFC Checker — Mobile Application
+### 📱 NFC Facility Checker — Mobile Application
 
 A mobile application project involving NFC-based checking workflows.
 
@@ -110,7 +110,7 @@ A mobile application project involving NFC-based checking workflows.
 - NFC-related functionality
 - Device interaction and practical application design
 
-**Repository:** [View NFC Facility Checker](https://github.com/kominkhantkyaw/nfc-facility-checker)
+**Repository:** [View NFC Facility Checker](https://github.com/kominkhantkyaw/NFC-Facility-Checker)
 
 > Update the project descriptions, technology lists, and repository
 > links to match each project's actual implementation.
