@@ -7,18 +7,18 @@
 
 Building scalable applications, intuitive user experiences, and reliable software solutions.
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<a href="https://github.com/kominkhantkyaw/">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;Software+Engineer;Mobile+%26+Web+Application+Developer;MSc+Computer+Science+Student" alt="Typing SVG" />
 </a>
 
 <p>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <a href="https://github.com/kominkhantkyaw/">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mailto:kominkhantkyaw@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/">
+  <a href="https://www.linkedin.com/in/linkedin.com/in/kominkhantkyaw/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
@@ -89,7 +89,7 @@ through a structured and accessible web experience.
 - Focus on usability, maintainability, and scalability
 
 **Tech:** React, JavaScript/TypeScript, Django, SQL  
-**Repository:** [View Study Sphere](https://github.com/YOUR_GITHUB_USERNAME/study-sphere)
+**Repository:** [View Study Sphere](https://github.com/kominkhantkyaw/studysphere)
 
 ### 🛡️ SafeSphere — Emergency Awareness & Response System
 
@@ -100,7 +100,7 @@ supporting users with safety-related information and response workflows.
 - User-focused interface and interaction design
 - Software engineering and problem-solving
 
-**Repository:** [View SafeSphere](https://github.com/YOUR_GITHUB_USERNAME/safesphere)
+**Repository:** [View SafeSphere](https://github.com/kominkhantkyaw/safesphere)
 
 ### 📱 STW NFC Checker — Mobile Application
 
@@ -110,7 +110,7 @@ A mobile application project involving NFC-based checking workflows.
 - NFC-related functionality
 - Device interaction and practical application design
 
-**Repository:** [View STW NFC Checker](https://github.com/YOUR_GITHUB_USERNAME/stw-nfc-checker)
+**Repository:** [View NFC Facility Checker](https://github.com/kominkhantkyaw/nfc-facility-checker)
 
 > Update the project descriptions, technology lists, and repository
 > links to match each project's actual implementation.
@@ -121,15 +121,15 @@ A mobile application project involving NFC-based checking workflows.
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=kominkhantkyaw&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kominkhantkyaw&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
 
 </div>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+<img src="https://streak-stats.demolab.com?user=kominkhantkyaw&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
 
 </div>
 
@@ -151,9 +151,9 @@ I'm interested in software engineering opportunities, collaborative
 projects, and connecting with developers who enjoy building useful software.
 
 <p align="center">
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">GitHub</a> •
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/">LinkedIn</a> •
-  <a href="mailto:YOUR_EMAIL">Email</a>
+  <a href="https://github.com/kominkhantkyaw">GitHub</a> •
+  <a href="https://www.linkedin.com/in/kominkhantkyaw/">LinkedIn</a> •
+  <a href="mailto:kominkhantkyaw@gmail.com">Email</a>
 </p>
 
 <div align="center">
